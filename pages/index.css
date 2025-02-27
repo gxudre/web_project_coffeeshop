@@ -167,10 +167,10 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  padding: 100px 0 120px 0;
 }
 
 .reservation__title {
-  margin: 100px auto 80px auto;
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 44px;
@@ -183,7 +183,6 @@
   max-width: 385px;
   align-items: center;
   justify-content: center;
-  margin: auto auto 120px;
 }
 
 .form__fieldset {
