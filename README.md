@@ -2,7 +2,7 @@
 
 Descrição
 
-Triple expresso é um site fictício desenvolvido para demonstrar habilidades em HTML, CSS e boas práticas de estruturação de código. O projeto apresenta uma interface moderna e responsiva para uma cafeteria, destacando o uso de formulários, Flexbox e a metodologia BEM para organização do CSS.
+Triple expresso é um site fictício desenvolvido para demonstrar habilidades em HTML, CSS e boas práticas de estruturação de código. O projeto apresenta uma interface moderna para uma cafeteria, destacando o uso de formulários, Flexbox e a metodologia BEM para organização do CSS.
 
 Tecnologias Utilizadas
 
