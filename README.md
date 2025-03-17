@@ -1,15 +1,33 @@
-# Triple Espresso
+# ☕ Triple Espresso  
 
-Descrição
+## 📌 Sobre o Projeto  
 
-Triple expresso é um site fictício desenvolvido para demonstrar habilidades em HTML, CSS e boas práticas de estruturação de código. O projeto apresenta uma interface moderna para uma cafeteria, destacando o uso de formulários, Flexbox e a metodologia BEM para organização do CSS.
+O **Triple Espresso** é um site fictício desenvolvido para demonstrar habilidades em **HTML, CSS** e boas práticas de estruturação de código. O projeto apresenta a interface moderna de uma cafeteria, aplicando conceitos como **formulários interativos** e a **metodologia BEM** para organização do CSS.  
 
-Tecnologias Utilizadas
+O foco principal do projeto é criar um layout bem estruturado e visualmente agradável, seguindo padrões de desenvolvimento que garantem **manutenção e escalabilidade do código**.  
 
-HTML5: Estruturação da página
+---  
 
-CSS3: Estilização
+## 🚀 Tecnologias Utilizadas  
 
-Flexbox: Para organização flexível dos elementos na interface
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
 
-Metodologia BEM: Para manter um código CSS organizado e escalável
+---  
+
+## 🎯 Técnicas Aplicadas  
+
+- 🎨 **Estilização com CSS3**  
+- 📐 **Flexbox para organização de layout**  
+- 🏷️ **Metodologia BEM para estruturação do CSS**  
+- 📄 **Uso de formulários interativos**  
+
+---  
+
+## 🔗 Acesse o Projeto  
+
+🔗 [Veja o projeto](https://gxudre.github.io/web_project_coffeeshop/)  
+
+---  
+
+🔹 **Feito com ❤️ por [Gustavo Xudre](https://www.linkedin.com/in/gustavo-xudre/).**  
